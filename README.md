@@ -1,8 +1,8 @@
 ### Hi I'm Ashen Wijesingha. 👋
 
- 🔭 I’m currently styding at SLIIT
- 🌱 Currently learning & Recreating
- 👯 looking to collaborate on New Projects ☺
+ - 🔭 I’m currently styding at SLIIT
+ - 🌱 Currently learning & Recreating
+ - 👯 looking to collaborate on New Projects ☺
 
 <!--
 **AshenWijesingha/AshenWijesingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
