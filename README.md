@@ -3,7 +3,7 @@
 <br>
 
  - 🔭 I’m currently styding at SLIIT
- - 🌱 Currently learning & Recreating
+ - 🌱 learning New Techs & Recreating
  - 👯 looking to collaborate on New Projects ☺
  
 <br>
