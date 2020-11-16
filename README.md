@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="ashen-wijesinghe-89137312b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashen_wijesingha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br>
+<br>
 
 <img align="left" alt="AshenWijesingha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AshenWijesingha&show_icons=true&hide_border=true" />
 
-<hr style="border:0px solid gray; height:1.5px"> </hr>
+
 
 [twitter]: https://twitter.com/ashen_wijesingh
 [instagram]: https://instagram.com/ashen_wijesingha
