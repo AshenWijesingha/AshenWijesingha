@@ -1,10 +1,11 @@
 ### Hi I'm Ashen Wijesingha. 👋
 
+<br>
+
  - 🔭 I’m currently styding at SLIIT
  - 🌱 Currently learning & Recreating
  - 👯 looking to collaborate on New Projects ☺
  
-<br>
 <br>
 
 <!--
