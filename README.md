@@ -16,7 +16,7 @@
 
 <br>
 
- ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/coder1.gif)
+ ![enter image description here](https://githubu.com/AshenWijesingha/AshenWijesingha/main/gif1.gif)
 
 <br>
 <br>
