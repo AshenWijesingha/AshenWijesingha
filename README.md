@@ -1,5 +1,5 @@
-### Hi I'm Ashen Wijesingha. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- <img scr="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px"> <img scr="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px"> <img scr="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px">
+### Hi I'm Ashen Wijesingha. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img scr="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px">
+ 
 <br>
 
  - 🔭 I’m currently working on something cool 
