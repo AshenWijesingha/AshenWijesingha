@@ -16,9 +16,10 @@
 
 <br>
 
+- :fire: 
+
  ![enter image description here](https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/main/gif1.gif)
 
-<br>
 <br>
 
 ![AshenWijesingha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&hide_border=true)
