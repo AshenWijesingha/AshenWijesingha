@@ -2,7 +2,7 @@
 
 <br>
 
- - 🔭 I’m currently working on something cool <img scr="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px">
+ - 🔭 I’m currently working on something cool: <img scr="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px">
  - 🌱 learning New Techs & Recreating
  - 👯 looking to collaborate on New Projects ☺
  - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesingh)
