@@ -14,7 +14,6 @@
 [<img align="left" alt="ashen_wijesingha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
-<hr>
 
  ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/coder1.gif)
 
