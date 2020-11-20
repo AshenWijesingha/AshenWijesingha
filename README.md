@@ -23,6 +23,10 @@
 ![AshenWijesingha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&layout=compact)
 
+<br>
+
+![Git Hub Contribution](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
+
 [twitter]: https://twitter.com/ashen_wijesingh
 [instagram]: https://instagram.com/ashen_wijesingha
 [linkedin]: https://linkedin.com/in/ashen-wijesinghe-89137312b/
