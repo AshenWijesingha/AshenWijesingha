@@ -13,7 +13,7 @@
 [<img align="left" alt="ashen-wijesinghe-89137312b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashen_wijesingha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ashen.dilshan.96 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ashendilshan | WeHeartIt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/weheartit.svg" />][weheartit]
+[<img align="left" alt="ashendilshan | weheartit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/weheartit.svg" />][weheartit]
 
 
 <br>
