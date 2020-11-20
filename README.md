@@ -16,7 +16,7 @@
 
 <br>
 
- ![enter image description here](https://githubu.com/AshenWijesingha/AshenWijesingha/main/gif1.gif)
+ ![enter image description here](https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/main/gif1.gif)
 
 <br>
 <br>
