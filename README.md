@@ -30,10 +30,10 @@
 <br>
 
 <a href="https://github.com/AshenWijesingha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/AshenWijesingha/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=convoychat" />
+  <img align="center" src="https://github.com/AshenWijesingha/github-readme-stats" />
 </a>
 
 <!--
