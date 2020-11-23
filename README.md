@@ -25,7 +25,6 @@
 
 <!--![AshenWijesingha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&hide_border=true)-->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&theme=graywhite)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha)](https://github.com/AshenWijesingha/github-readme-stats)
 
 <br>
