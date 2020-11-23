@@ -30,9 +30,9 @@
 <br>
 
 <a href="https://github.com/AshenWijesingha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&theme=graywhite" />
 </a>
-<a href="https://github.com/AshenWijesingha/convoychat">
+<a href="https://github.com/AshenWijesingha/github-readme-stats">
   <img align="center" src="https://github.com/AshenWijesingha/github-readme-stats" />
 </a>
 
