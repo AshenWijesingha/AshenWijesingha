@@ -22,6 +22,7 @@
     <code><a href="https://www.instagram.com/ashen_wijesingha/" title="Instagram Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/instagram.svg"> Instagram</a></code>
     <code><a href="https://www.twitter.com/ashen_wijesingh" title="Twitter Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/twitter.png"> Twitter</a></code>
     <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
+ <code><a href="https://www.facebook.com/ashen.dilshan.96" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
 </h5>
 <br>
 
