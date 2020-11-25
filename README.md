@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
 </h2>
  
-<br>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ashen-wijesinghe-89137312b/" title="LinkedIn Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
@@ -13,7 +12,7 @@
     <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
  <code><a href="https://www.facebook.com/ashen.dilshan.96" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
 </h5>
-<br>
+
  - 🔭 I’m currently working on something cool :bulb: 
  - 🌱 learning New Techs & Recreating :construction:  
  - 👯 looking to collaborate on New Projects ☺
