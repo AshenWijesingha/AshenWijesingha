@@ -12,17 +12,30 @@
  - 🔭 I’m currently working on something cool :bulb: 
  - 🌱 learning New Techs & Recreating :construction:  
  - 👯 looking to collaborate on New Projects ☺
- - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesingh)
- 
+ - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesingh
+  
 <br>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/ashen-wijesinghe-89137312b/" title="LinkedIn Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+ 
+  <code><a href="https://www.instagram.com/ashen_wijesingha/" title="Instagram Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/master/images/instagram.svg"> Instagram</a></code>
+  
+  <code><a href="https://www.twitter.com/ashen_wijesingh" title="Twitter Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/master/images/twitter.png"> Twitter</a></code>
+  
+  <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/master/images/gmail.png"> Gmail</a></code>
+</h5>
+<br>
+
+<!--
 
 [<img align="left" alt="ashen.dilshan.96 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ashen_wijesingha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ashen-wijesinghe-89137312b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashen_wijesingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br>
-<br>
+-->
 
 - :dart: Focused_On Inventions :fire: 
 
