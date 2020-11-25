@@ -12,13 +12,12 @@
     <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
  <code><a href="https://www.facebook.com/ashen.dilshan.96" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
 </h5>
+<hr>
 
  - 🔭 I’m currently working on something cool :bulb: 
  - 🌱 learning New Techs & Recreating :construction:  
  - 👯 looking to collaborate on New Projects ☺
  - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesing)
-<br>
-
 <br>
 
 <!--
