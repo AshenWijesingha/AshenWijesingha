@@ -1,21 +1,10 @@
-<!--## Hi I'm Ashen Wijesingha. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
-
 <h2 align="center">Ashen Wijesingha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
  <br>
   <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
-
 </h2>
  
 <br>
-
- - 🔭 I’m currently working on something cool :bulb: 
- - 🌱 learning New Techs & Recreating :construction:  
- - 👯 looking to collaborate on New Projects ☺
- - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesingh
-  
-<br>
-
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ashen-wijesinghe-89137312b/" title="LinkedIn Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
@@ -24,6 +13,13 @@
     <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
  <code><a href="https://www.facebook.com/ashen.dilshan.96" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
 </h5>
+<br>
+ - 🔭 I’m currently working on something cool :bulb: 
+ - 🌱 learning New Techs & Recreating :construction:  
+ - 👯 looking to collaborate on New Projects ☺
+ - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesingh
+<br>
+
 <br>
 
 <!--
