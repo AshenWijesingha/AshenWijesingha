@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/AshenWijesingha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&layout=compact&hide=html&theme=prussian&hide_border=true" alt="AshenWijesingha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)&hide=html&theme=prussian&hide_border=true" alt="AshenWijesingha" />
 </a>
 
 <!--
