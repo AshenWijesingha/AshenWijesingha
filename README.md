@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/AshenWijesingha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&layout=compact&hide=html&theme=prussian&hide_border=true" alt="MadhushaPrasad" />
 </a>
 
 <!--
