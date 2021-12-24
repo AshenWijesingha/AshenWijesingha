@@ -5,6 +5,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
 </h2>
 <p> 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
+</p>
+<br/>
 <h5 align="center">
   <code><a href="https://www.facebook.com/ashen.dilshan.96" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
   <code><a href="https://www.instagram.com/ashen_wijesingha/" title="Instagram Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/instagram.svg"> Instagram</a></code>
@@ -176,7 +180,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+.+.+.+.;+.+.+.;Ashen+Wijesingha&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+.+.+.+.;+.+.+.;_Ashen+Wijesingha&center=true"></a>
 </p>
 
 
