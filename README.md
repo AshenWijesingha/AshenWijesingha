@@ -41,12 +41,29 @@
 -->
 <br>
 
+<p align="center">
+    <a href="https://github.com/AshenWijesingha/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AshenWijesingha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshenWijesingha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br/>
+<br/>
+
 <a href="https://github.com/AshenWijesingha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/AshenWijesingha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)&hide=html&theme=prussian&hide_border=true" alt="AshenWijesingha" />
 </a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/AshenWijesingha/github-readme-activity-graph"><img alt="Ashen Wijesingha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshenWijesingha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <!--
 ![Git Hub Contribution](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
