@@ -2,7 +2,6 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
  <h4 align="center">Undergraduate</h4>
 
- <br>
   <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
 </h2>
