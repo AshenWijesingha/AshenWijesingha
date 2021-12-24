@@ -112,7 +112,9 @@
 <a href="https://firebase.google.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
 <a href="https://postman.com" target="_blank"> 
-	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+<a href="https://threejs.org/" target="_blank"> 
+	<img align="left" alt="" width="48px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/3js.png" /> </a> 
 
 
 <br/>
