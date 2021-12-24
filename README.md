@@ -175,6 +175,11 @@
 <br/>
 <br/>
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+...;❤🔥&center=true"></a>
+</p>
+
+
 <!--
 ![Git Hub Contribution](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
 -->
