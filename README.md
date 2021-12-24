@@ -48,6 +48,8 @@
     <a href="https://github.com/AshenWijesingha/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AshenWijesingha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshenWijesingha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+ </p>
+ <p align="center">
    <a href="https://github.com/AshenWijesingha/github-readme-stats"><img alt="Ashen Wijesingha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AshenWijesingha/github-readme-stats"><img alt="Ashen Wijesingha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
