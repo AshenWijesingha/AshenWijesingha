@@ -38,8 +38,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AshenWijesingha/github-readme-stats"><img alt="Ashen Wijesingha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AshenWijesingha/github-readme-stats"><img alt="Ashen Wijesingha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,15 +56,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AshenWijesingha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&theme=graywhite" />
-</a>
-<a href="https://github.com/AshenWijesingha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)&hide=html&theme=prussian&hide_border=true" alt="AshenWijesingha" />
-</a>
-
-<br/>
-<br/>
 
 <a href="https://github.com/AshenWijesingha/github-readme-activity-graph"><img alt="Ashen Wijesingha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshenWijesingha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
