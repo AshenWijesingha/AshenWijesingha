@@ -37,7 +37,7 @@
 
 <br>
 
-## 📊 My Github Stats
+## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
 
   <br/>
     <a href="https://github.com/AshenWijesingha/github-readme-stats"><img alt="Ashen Wijesingha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
