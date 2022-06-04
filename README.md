@@ -21,7 +21,7 @@
  - 🔭 I’m currently working on something cool :bulb: 
  - 🌱 learning New Techs & Recreating :construction:  
  - 👯 looking to collaborate on New Projects ☺
- - 📫 How to reach me: [@ashen_wijesingh](https://twitter.com/ashen_wijesing)
+ - 📫 How to reach me: [@ashen_wijesingh](mailto:a.d.wijesina@gmail.com;)
 <br>
 
 <!--
