@@ -13,10 +13,6 @@
 </p>
 </h2>
 
-
-   
-![](https://komarev.com/ghpvc/?username=AshenWijesingha)
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
 </p>
