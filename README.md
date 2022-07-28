@@ -9,14 +9,13 @@
 	<img src="https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/" alt="https://www.linkedin.com/in/ashen-wijesingha/" /></a>
 	<a href="https://ashenwijesingha.github.io">
 	<img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/" alt="ashenwijesingh.github.io" /></a>
-	
-	</p>
+	<img src="https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
+</p>
 </h2>
 
 
    
 ![](https://komarev.com/ghpvc/?username=AshenWijesingha)
-![GitHub User's stars](https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
