@@ -5,7 +5,8 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> 
 	<img src="https://img.shields.io/github/followers/AshenWijesingha?label=Follow&style=social" alt="Github" />
-	<img src="https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/" alt="https://www.linkedin.com/in/ashen-wijesingha/" />
+	<a href="https://www.linkedin.com/in/ashen-wijesingha/">
+	<img src="https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/" alt="https://www.linkedin.com/in/ashen-wijesingha/" /></a>
 	</p>
 </h2>
 
