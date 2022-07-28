@@ -2,15 +2,17 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
  <h4 align="center">Undergraduate</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
-</h2>
-<p> 
-	
-[![Linkedin: Ashen Wijesingha](https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/)](https://www.linkedin.com/in/ashen-wijesingha/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> 
+	[![Linkedin: Ashen Wijesingha](https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/)](https://www.linkedin.com/in/ashen-wijesingha/)
     ![GitHub followers](https://img.shields.io/github/followers/AshenWijesingha?label=Follow&style=social)
     [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://ashenwijesingha.github.io/)
 ![](https://camo.githubusercontent.com/f1c00c1d3c0d9b8f4431c8082be05835cd7795233799bcef63c216d59cf4f6a0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d546875736861726158267374796c653d666c617426636f6c6f723d627269676874677265656e)
 ![GitHub User's stars](https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+</p>
+</h2>
+<p> 
+	
+
 	
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
