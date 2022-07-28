@@ -1,16 +1,16 @@
 <h2 align="center">Ashen Wijesingha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
- <h4 align="center">Undergraduate</h4>
+<h4 align="center">Undergraduate</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
 </h2>
-
+<span style="display:block;text-align:center">
 [![Linkedin: Ashen Wijesingha](https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/)](https://www.linkedin.com/in/ashen-wijesingha/)
     ![GitHub followers](https://img.shields.io/github/followers/AshenWijesingha?label=Follow&style=social)
     [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://ashenwijesingha.github.io/)
 ![](https://komarev.com/ghpvc/?username=AshenWijesingha)
 ![GitHub User's stars](https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
-	
+<span>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
 </p>
