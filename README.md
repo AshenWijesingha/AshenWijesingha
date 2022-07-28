@@ -3,9 +3,10 @@
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> 
-	<a href="https://www.twitter.com/ashen_wijesingh">
+	
 	<img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="https://www.twitter.com/ashen_wijesingh" /> 
-	<img src="https://img.shields.io/twitter/follow/AshenWijesingha?label=Follow" alt=""
+	<a href="https://www.twitter.com/ashen_wijesingh">
+	<img src="https://img.shields.io/twitter/follow/AshenWijesingha?label=Follow" alt=""></a>
 	<img src="https://img.shields.io/github/followers/AshenWijesingha?label=Follow&style=social" alt="Github" />
 	<a href="https://www.linkedin.com/in/ashen-wijesingha-89137312b/">
 	<img src="https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/" alt="https://www.linkedin.com/in/ashen-wijesingha/" /></a>
