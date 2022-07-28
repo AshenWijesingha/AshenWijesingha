@@ -3,15 +3,19 @@
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=AshenWijesingh" alt="https://www.twitter.com/ashen_wijesingh" />
 	
-	<img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="https://www.twitter.com/ashen_wijesingh" /> 
 	<a href="https://www.twitter.com/ashen_wijesingh">
-	<img src="https://img.shields.io/twitter/follow/AshenWijesingha?label=Follow" alt=""></a>
+	<img src="https://img.shields.io/twitter/follow/ashen_wijesingh?label=Follow" alt=""></a>
+	
 	<img src="https://img.shields.io/github/followers/AshenWijesingha?label=Follow&style=social" alt="Github" />
+	
 	<a href="https://www.linkedin.com/in/ashen-wijesingha-89137312b/">
 	<img src="https://img.shields.io/badge/-Ashe_Wijesingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashen-wijesingha/" alt="https://www.linkedin.com/in/ashen-wijesingha/" /></a>
+	
 	<a href="https://ashenwijesingha.github.io">
 	<img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/" alt="ashenwijesingh.github.io" /></a>
+	
 	<img src="https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
 </p>
 </h2>
