@@ -22,7 +22,7 @@
   <code><a href="https://www.instagram.com/ashen_wijesingha/" title="Instagram Profile"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/ashen-wijesinghe-89137312b/" title="LinkedIn Profile"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.twitter.com/ashen_wijesingh" title="Twitter Profile"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/twitter.png"> Twitter</a></code>
-  <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com; inbox.ashen@gmail.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
+  <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
 
 </h5>
 <p/>
@@ -72,6 +72,8 @@
 
 <a href="https://github.com/AshenWijesingha/github-readme-activity-graph"><img alt="Ashen Wijesingha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshenWijesingha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+[![Ashen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshenWijesingha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 <br/>
 
@@ -90,27 +92,6 @@
 	
 <br/>
 <br/>
-	
-<!-- 	NEW -->
-<!-- ## Tools and Technologies that I'm using currently 
-
-### 🧰 Version Control
-	<a> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png>
-	</a>
-	<a> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-	</a>
-	<a><img height="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"></a>
-	
-### 🚍 Communication
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"/>
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"/>
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"/>
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"/>
- -->
-
-
-	
-<!-- 	OLD -->
 	
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
