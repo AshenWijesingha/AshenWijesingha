@@ -72,7 +72,7 @@
 
 <a href="https://github.com/AshenWijesingha/github-readme-activity-graph"><img alt="Ashen Wijesingha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshenWijesingha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Ashen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshenWijesingha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshenWijesingha&theme=tokyo-night)](https://github.com/AshenWijesingha/github-readme-activity-graph)
 
 <br/>
 <br/>
