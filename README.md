@@ -92,7 +92,7 @@
 <br/>
 	
 <!-- 	NEW -->
-## Tools and Technologies that I'm using currently 
+<!-- ## Tools and Technologies that I'm using currently 
 
 ### 🧰 Version Control
 	<a> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png>
@@ -106,7 +106,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"/>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"/>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"/>
-
+ -->
 
 
 	
