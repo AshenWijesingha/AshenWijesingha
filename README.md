@@ -54,6 +54,7 @@
 
 
 <br/>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=algolia" alt="AshenWijesingha" /> </p>
 <br/>
 
 <p align="center">
