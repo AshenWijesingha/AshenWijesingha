@@ -69,8 +69,7 @@
 
 <br/>
 <br/>
-
-[![Ashen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshenWijesingha&theme=tokyo-night)](https://github.com/AshenWijesingha/AshenWijesingha/README.md)
+[![Ashen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshenWijesingha&theme=github-compact)](https://github.com/AshenWijesingha/AshenWijesingha/README.md)
 
 <br/>
 <br/>
