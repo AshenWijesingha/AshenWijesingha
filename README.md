@@ -54,7 +54,7 @@
 
 
 <br/>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=buddhism&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=6" alt="AshenWijesingha" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=gitdimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=6" alt="AshenWijesingha" /> </p>
 <br/>
 
 <p align="center">
