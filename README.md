@@ -4,6 +4,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="https://www.twitter.com/ashen_wijesingh" />
+	<img src="https://user-badge.committers.top/sri_lanka/AshenWijesingha.svg" alt="" />
 	<img src="https://img.shields.io/twitter/follow/ashen_wijesingh?label=Follow" alt=""></a>
 	<img src="https://img.shields.io/github/followers/AshenWijesingha?label=Follow&style=social" alt="Github" />
 	<a href="https://www.linkedin.com/in/ashen-wijesingha-89137312b/">
