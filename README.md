@@ -28,10 +28,8 @@
 </h5>
 <p/>
 
- - 🔭 I’m currently working on something cool :bulb: 
- - 🌱 learning New Techs & Recreating :construction:  
- - 👯 looking to collaborate on New Projects ☺
- - 📫 How to reach me: [@ashen_wijesingh](mailto:inbox.ashen@gmail.com;)
+# 💫 About Me:
+🔭 Currently working on exciting projects and innovations<br>🌱 Constantly learning new technologies and honing my skills<br>🚧 Recreating existing ideas with a fresh perspective<br>👯 Open to collaborations on interesting and impactful projects<br>⚡ Fun fact: I love coding while traveling – it keeps me inspired!<br>📫 Reach me: inbox.ashen@gmail.com
 <br>
 
 <!--
@@ -48,10 +46,6 @@
  ![enter image description here](https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/main/gif1.gif)
 
 <br>
-
-# 💫 About Me:
-🔭 Currently working on exciting projects and innovations<br>🌱 Constantly learning new technologies and honing my skills<br>🚧 Recreating existing ideas with a fresh perspective<br>👯 Open to collaborations on interesting and impactful projects<br>⚡ Fun fact: I love coding while traveling – it keeps me inspired!<br>📫 Reach me: inbox.ashen@gmail.com
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashen.dilshan.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashen_wijesingha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashen-wijesingha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@a.d.wijesingha) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashenwijesingha) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ashen-Wijesingha) 
