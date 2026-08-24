@@ -525,7 +525,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 </p>
 
-<p align="center"><i>Proudly rebuilt from a profile originally created with <a href="https://gprm.itsvg.in">GPRM</a>.</i></p>
+<!-- <p align="center"><i>Proudly rebuilt from a profile originally created with <a href="https://gprm.itsvg.in">GPRM</a>.</i></p> -->
 
 <!--
 ════════════════════════════════════════════════════════════════════════════════
