@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=60&lines=Welcome+To+My+Profile+.+.+.+.;.+.+Building+.+Breaking+.+Securing+.+Repeating;%F0%9F%8E%AF+Focused_On+Inventions+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=60&lines=Welcome+To+My+Profile+.+.+.+.;Building+.+.+.;Breaking+.+.+.;Securing+.+.+.;Repeating+.+.+.;%F0%9F%8E%AF+Focused_On+Inventions+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
