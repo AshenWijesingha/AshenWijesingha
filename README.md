@@ -17,7 +17,7 @@
 </h2>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
-<h4 align="center">Undergraduate · Cumulative Integration of Continuous Work, That's Me 😎</h4>
+<h4 align="center">Graduate 🎓 · Cumulative Integration of Continuous Work, That's Me 😎</h4>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -142,8 +142,8 @@
 ### 💼 Professional & Academic
 
 <p>
-  <img src="https://img.shields.io/badge/EGUARDIAN-Cyber%20Security%20Analyst-1F6FEB?style=for-the-badge&logo=shield&logoColor=white" alt="EGUARDIAN" />
-  <img src="https://img.shields.io/badge/SLIIT-Undergraduate-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SLIIT" />
+  <img src="https://img.shields.io/badge/EGUARDIAN-Cybersecurity%20Analyst-1F6FEB?style=for-the-badge&logo=shield&logoColor=white" alt="EGUARDIAN" />
+  <img src="https://img.shields.io/badge/SLIIT-Graduate-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SLIIT" />
   <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program" />
 </p>
 
