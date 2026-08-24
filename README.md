@@ -102,8 +102,8 @@
       <sub>Owner · Maintainer</sub>
     </td>
     <td align="center" width="180">
-      <a href="https://github.com/DevCeylon">
-        <img src="https://github.com/DevCeylon.png" width="72" height="72" style="border-radius:50%" alt="DevCeylon" /><br />
+      <a href="https://github.com/Dev-Ceylon">
+        <img src="https://github.com/Dev-Ceylon.png" width="72" height="72" style="border-radius:50%" alt="Dev-Ceylon" /><br />
         <b>DevCeylon</b>
       </a><br />
       <sub>Owner · Maintainer</sub>
