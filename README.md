@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td><b>📨 Gmail</b></td>
-    <td><a href="mailto:a.d.wijesina@gmail.com">a.d.wijesina@gmail.com</a></td>
+    <td><a href="mailto:a.d.wijesingha@gmail.com">a.d.wijesingha@gmail.com</a></td>
   </tr>
   <tr>
     <td><b>📩 Outlook</b></td>
