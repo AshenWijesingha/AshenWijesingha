@@ -17,7 +17,7 @@
 </h2>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
-<h4 align="center">Graduate 🎓 · Cumulative Integration of Continuous Work, That's Me 😎</h4>
+<h4 align="center">Undergraduate · Cumulative Integration of Continuous Work, That's Me 😎</h4>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -143,7 +143,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/EGUARDIAN-Cyber%20Security%20Analyst-1F6FEB?style=for-the-badge&logo=shield&logoColor=white" alt="EGUARDIAN" />
-  <img src="https://img.shields.io/badge/SLIIT-Graduate-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SLIIT" />
+  <img src="https://img.shields.io/badge/SLIIT-Undergraduate-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SLIIT" />
   <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program" />
 </p>
 
@@ -160,7 +160,7 @@
   <a href="https://medium.com/@a.d.wijesingha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://pinterest.com/ashenwijesingha"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://codepen.io/Ashen-Wijesingha"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
-  <a href="mailto:inbox.ashen@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:a.d.wijesina@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="mailto:a.d.wijesingha@outlook.com"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
 </p>
 
@@ -374,15 +374,50 @@
 <!-- ╔═════════════════════════ GITHUB ANALYTICS ═════════════════════════╗ -->
 ## 📊 GitHub Stats
 
+<!--
+  NOTE ON RATE LIMITS
+  The public github-readme-stats / streak-stats / trophy instances are shared by
+  millions of profiles and frequently return errors or blank images.
+  `include_all_commits` was removed below because it hits GitHub's Search API,
+  which is rate limited far more aggressively than the GraphQL API and is the
+  most common cause of "Failed to retrieve" cards on accounts with many repos.
+  For a permanent fix, deploy your own instances (see README-SETUP.md) and
+  replace the two hostnames below with your own Vercel domains.
+-->
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AshenWijesingha&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshenWijesingha&theme=github_dark" alt="Profile summary" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=AshenWijesingha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshenWijesingha&theme=github_dark" alt="Repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshenWijesingha&theme=github_dark" alt="Most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshenWijesingha&theme=github_dark" alt="Stats" />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshenWijesingha&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshenWijesingha&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
+</div>
+
+<!--
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │  OPTIONAL: classic github-readme-stats / streak / contributor cards     │
+  │                                                                         │
+  │  These are commented out on purpose. The PUBLIC instances below share   │
+  │  one GitHub API quota across millions of profiles, so they return       │
+  │  errors most of the day — that is what produced the broken images and   │
+  │  the "Failed to retrieve contributions" card.                           │
+  │                                                                         │
+  │  To use them reliably, deploy your OWN copies (5 min, free) as          │
+  │  described in README-SETUP.md, then replace the hostnames below with    │
+  │  your own Vercel domains and delete these comment markers.              │
+  └─────────────────────────────────────────────────────────────────────────┘
+
+<div align="center">
+  <img height="180" src="https://YOUR-STATS.vercel.app/api?username=AshenWijesingha&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://YOUR-STATS.vercel.app/api/top-langs/?username=AshenWijesingha&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top languages" />
+  <img height="180" src="https://YOUR-STREAK.vercel.app?user=AshenWijesingha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://YOUR-STATS.vercel.app/api/wakatime?username=AshenWijesingha&theme=tokyonight" alt="Wakatime" />
 </div>
 
 ### 🔝 Top Contributed Repos
@@ -390,26 +425,68 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AshenWijesingha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
 </div>
+-->
+
+### 🔝 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/AshenWijesingha/PhishGuard"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=PhishGuard&theme=tokyonight&hide_border=true" alt="PhishGuard" /></a>
+  <a href="https://github.com/AshenWijesingha/QR-Code-Generator"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=QR-Code-Generator&theme=tokyonight&hide_border=true" alt="QR Code Generator" /></a>
+  <a href="https://github.com/AshenWijesingha/ITP_Project"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=ITP_Project&theme=tokyonight&hide_border=true" alt="ITP Project" /></a>
+</div>
+
+<!--
+  Repo pin cards are far lighter than the stats cards (one REST call each, no
+  Search API), so they survive the shared rate limit much better. If they ever
+  break, just delete this block — nothing else depends on it.
+-->
 
 <!-- ╔═════════════════════════ CONTRIBUTION SNAKE ═══════════════════════╗ -->
 ### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/output/github-snake.svg" />
   </picture>
 </div>
 
-<!-- Snake animation requires the workflow in .github/workflows/snake.yml (provided alongside this README). -->
+<!--
+  The snake renders ONLY after the workflow has run once and created the
+  "output" branch. Before it does, this is a broken image — that is expected.
+
+  Quick check: open
+    https://github.com/AshenWijesingha/AshenWijesingha/tree/output
+  If that page 404s, the workflow has not run successfully yet.
+
+  Full troubleshooting checklist is in the header of .github/workflows/snake.yml
+  The two filenames above must match the `outputs:` block in that workflow.
+-->
+
+### 📈 Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/36BCF7/AshenWijesingha" width="98%" alt="Contribution calendar" />
+</div>
 
 <!-- ╔════════════════════════════ TROPHIES ══════════════════════════════╗ -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=radical&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" alt="GitHub trophies" />
+  <a href="https://github.com/AshenWijesingha?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub trophies" />
+  </a>
 </div>
+
+<!--
+  The trophy service shares the same rate limit as the stats cards. Two things
+  make it fail less often:
+    • rank=... filters out low-tier trophies, so the service does less work
+    • no-bg=true renders a transparent card that degrades gracefully
+  If it still shows as a broken image, the static badge row below always works
+  and can stand alone — delete this section if you prefer.
+-->
 
 <!-- ╔══════════════════════════ ACHIEVEMENTS ════════════════════════════╗ -->
 ## 🎖️ GitHub Achievements
