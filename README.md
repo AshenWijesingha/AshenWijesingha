@@ -426,7 +426,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AshenWijesingha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
 </div>
 -->
-
+<!--
 ### 🔝 Top Repositories
 
 <div align="center">
@@ -434,6 +434,7 @@
   <a href="https://github.com/AshenWijesingha/QR-Code-Generator"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=QR-Code-Generator&theme=tokyonight&hide_border=true" alt="QR Code Generator" /></a>
   <a href="https://github.com/AshenWijesingha/ITP_Project"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshenWijesingha&repo=ITP_Project&theme=tokyonight&hide_border=true" alt="ITP Project" /></a>
 </div>
+-->
 
 <!--
   Repo pin cards are far lighter than the stats cards (one REST call each, no
@@ -462,7 +463,7 @@
 
   Full troubleshooting checklist is in the header of .github/workflows/snake.yml
   The two filenames above must match the `outputs:` block in that workflow.
--->
+
 
 ### 📈 Contribution Calendar
 
@@ -471,6 +472,7 @@
 </div>
 
 <!-- ╔════════════════════════════ TROPHIES ══════════════════════════════╗ -->
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -478,7 +480,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub trophies" />
   </a>
 </div>
-
+-->
 <!--
   The trophy service shares the same rate limit as the stats cards. Two things
   make it fail less often:
