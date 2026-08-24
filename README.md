@@ -160,7 +160,7 @@
   <a href="https://medium.com/@a.d.wijesingha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://pinterest.com/ashenwijesingha"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://codepen.io/Ashen-Wijesingha"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
-  <a href="mailto:a.d.wijesina@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:inbox.ashen@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="mailto:a.d.wijesingha@outlook.com"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
 </p>
 
