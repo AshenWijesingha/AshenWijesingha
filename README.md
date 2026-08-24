@@ -393,7 +393,7 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshenWijesingha&theme=github_dark" alt="Most commit language" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshenWijesingha&theme=github_dark" alt="Stats" />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshenWijesingha&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+<!-- <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshenWijesingha&theme=github_dark&utcOffset=5.5" alt="Productive time" /> -->
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshenWijesingha&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
