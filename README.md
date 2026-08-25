@@ -104,7 +104,7 @@
     <td align="center" width="180">
       <a href="https://github.com/Dev-Ceylon">
         <img src="https://github.com/Dev-Ceylon.png" width="72" height="72" style="border-radius:50%" alt="Dev-Ceylon" /><br />
-        <b>DevCeylon</b>
+        <b>Dev-Ceylon</b>
       </a><br />
       <sub>Owner · Maintainer</sub>
     </td>
