@@ -27,7 +27,7 @@
 
 <!-- ╔════════════════════════════ STAT BADGES ════════════════════════════╗ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshenWijesingha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="Profile views" />
   <img src="https://user-badge.committers.top/sri_lanka/AshenWijesingha.svg" alt="Top committers Sri Lanka" />
   <img src="https://img.shields.io/github/followers/AshenWijesingha?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
